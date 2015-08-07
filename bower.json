@@ -6,12 +6,11 @@
     "Rahul Gupta <rgupta@okta.com>"
   ],
   "description": "testing bower",
+  "private": "true",
   "license": "none",
   "ignore": [
     "**/.*",
     "node_modules",
-    "bower_components",
-    "test",
-    "tests"
+    "bower_components"
   ]
 }

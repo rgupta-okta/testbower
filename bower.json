@@ -1,0 +1,17 @@
+{
+  "name": "testbower",
+  "version": "0.1.0",
+  "homepage": "https://github.com/rgupta-okta/testbower",
+  "authors": [
+    "Rahul Gupta <rgupta@okta.com>"
+  ],
+  "description": "testing bower",
+  "license": "none",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

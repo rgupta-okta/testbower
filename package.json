@@ -1,0 +1,19 @@
+{
+  "name": "testbower",
+  "version": "0.3.0",
+  "description": "",
+  "main": "test.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rgupta-okta/testbower.git"
+  },
+  "author": "rahulkartgupta@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rgupta-okta/testbower/issues"
+  },
+  "homepage": "https://github.com/rgupta-okta/testbower#readme"
+}
